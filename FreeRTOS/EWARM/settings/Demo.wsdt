@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Demo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>471</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>309</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <PROJECT_GUI_CALL_GRAPH>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        <col-names>
+          
+          
+          
+        <item>File</item><item>Function</item><item>Line</item></col-names>
+        <col-widths>
+          
+          
+          
+        <item>200</item><item>700</item><item>100</item></col-widths>
+      </PROJECT_GUI_CALL_GRAPH>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1223</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+      <Select-Ambiguous-Definitions>
+        <ColumnWidth0>496</ColumnWidth0>
+        <ColumnWidth1>70</ColumnWidth1>
+        <ColumnWidth2>850</ColumnWidth2>
+      </Select-Ambiguous-Definitions>
+    <Find-All-References><ColumnWidth0>496</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>850</ColumnWidth2></Find-All-References><Find-in-Files><ColumnWidth0>496</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>850</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23947-27302</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Demo</ExpandedNode><ExpandedNode>Demo/EWARM</ExpandedNode><ExpandedNode>Demo/FreeRTOS</ExpandedNode><ExpandedNode>Demo/Output</ExpandedNode><ExpandedNode>Demo/STM32F3-Discovery</ExpandedNode><ExpandedNode>Demo/User</ExpandedNode><ExpandedNode>Demo/Virtual COM USB</ExpandedNode><ExpandedNode>Demo/Virtual COM User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-150-29385</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-527-31834</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19809-8530</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-14662-28824</Identity><TabName>Find All References</TabName><Factory>Find-All-References</Factory><Session/></Tab><Tab><Identity>TabID-4794-6885</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\portable\IAR\ARM_CM4F\portasm.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>84</YPos2><SelStart2>4432</SelStart2><SelEnd2>4432</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Demo\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>433</YPos2><SelStart2>5332</SelStart2><SelEnd2>5332</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0137ab88><key>iaridepm.enu1</key></Toolbar-0137ab88></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>486</Bottom><Right>561</Right><x>-2</x><y>-2</y><xscreen>732</xscreen><yscreen>701</yscreen><sizeHorzCX>508333</sizeHorzCX><sizeHorzCY>842548</sizeHorzCY><sizeVertCX>390972</sizeVertCX><sizeVertCY>586538</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>302</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>304</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>365385</sizeHorzCY><sizeVertCX>508333</sizeVertCX><sizeVertCY>842548</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
